@@ -7,7 +7,5 @@ car = {
 print(car["model"])
 
 car["color"] = "red"
-
 car.pop("brand")
-
 print(car)
